@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ECreanSnow
-- 👀 I’m interested in Snowflake, Python, C++, C#, Netezza
+- 👀 I’m interested in anything Snowflake, Snowpark, Python, C++, C#, Netezza
 - 🌱 I’m currently learning Unreal Engine 4
 - 💞️ I’m looking to collaborate on Anything Snowflake Related that could involve some coding or problem solving
 - 📫 How to reach me ed.crean@snowflake.com
